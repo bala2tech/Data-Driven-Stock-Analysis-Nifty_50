@@ -1,7 +1,7 @@
 # Data-Driven-Stock-Analysis-Nifty_50
 # 📈 Nifty50 Stock Data Analysis & Dashboard Projects
 
-Hi there 👋, I'm Balamurugan! I create **data-driven dashboards and analysis for stock market insights**, primarily focusing on **Nifty50 stocks**.
+ Create **data-driven dashboards and analysis for stock market insights**, primarily focusing on **Nifty50 stocks**.
 
 ---
 
